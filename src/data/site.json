@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Ron Bronson",
+  "description": "",
+  "url": "https://now.ronbronson.com",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Ron Bronson",
+    "email": "ronald.bronson@pm.me",
+    "twitterHandle": "ronbronson"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -23,17 +23,17 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://instagram.com/ronbronson",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/quarterback",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/ronbronson",
       "external": true
     }
   ],
@@ -41,7 +41,7 @@
     {
       "text": "RSS",
       "url": "/feed.xml",
-      "external": true
+      "external": false
     }
   ],
   "showFooterAttribution": true
