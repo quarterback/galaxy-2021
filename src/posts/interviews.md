@@ -4,6 +4,8 @@ date: 2021-01-01T09:00:00-07:00
 description: Some interviews I've done
 ---
 
+This is a list of interviews, podcasts, and other random media I've done. Whether it's talking about design (and it's discontents) or musing about Finnish baseball, I've covered a range of topics over the years.
+
 [**Deceptive Design: How to Identify and Combat Consequence Design (Nov '20) **](https://digital.gov/resources/deceptive-design-how-to-identify-and-combat-consequence-design/)
 
 [**Shaping better user centered products - Editor X interview (Oct '20)**](https://www.editorx.com/shaping-design/article/ron-bronson-interview-consequence-design)
