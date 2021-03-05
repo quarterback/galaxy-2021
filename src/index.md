@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Ron Bronson'
 ---
 
-# Hello World
+# Ron Bronson
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Design strategist & leader. I'm passionate helping slow-moving entities make sense of and improve digital products and presence. 

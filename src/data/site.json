@@ -11,8 +11,8 @@
   "headerLinks": [
     {
       "text": "Blog",
-      "url": "/blog",
-      "external": false
+      "url": "https://2021.ronbronson.com/",
+      "external": true
     },
     {
       "text": "About",
@@ -31,6 +31,11 @@
       "url": "https://github.com/quarterback",
       "external": true
     },
+    {
+      "text": "Last.fm",
+      "url": "https://last.fm/user/omnivoreron",
+      "external": true
+    }
     {
       "text": "Twitter",
       "url": "https://twitter.com/ronbronson",
