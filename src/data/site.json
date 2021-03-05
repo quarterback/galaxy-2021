@@ -11,8 +11,8 @@
   "headerLinks": [
     {
       "text": "Blog",
-      "url": "/blog",
-      "external": false
+      "url": "https://2021.ronbronson.com",
+      "external": true
     },
     {
       "text": "About",
