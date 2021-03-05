@@ -3,7 +3,8 @@ title: Speaking
 date: '2021-01-08'
 description: Select list of public talks since 2017
 ---
-_Talks since 2017_
+
+I've been on stage at over 50 UX, design & tech events around the globe since 2017. I've also organized several conferences over the years.
 
 Nov. ‘20 [**Consequence Design in UX Writing**](https://www.meetup.com/portland-ux-writers-community/events/274434437/), **PDX UX Writers Meetup**  
 Oct. ‘20 [**Consequence Design**](https://youtu.be/Aw5ovySXf6o?t=1430), **US Web Design System Monthly Call**  
