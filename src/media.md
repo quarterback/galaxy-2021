@@ -1,7 +1,7 @@
 ---
-title: Media
-description: Some interviews I've done
-date: 2021-01-01T09:00:00-07:00
+layout: base
+permalink: /interviews
+title: Media & Interviews
 ---
 
 This is a list of interviews, podcasts, and other random media I've done. Whether it's talking about design (and it's discontents) or musing about Finnish baseball, I've covered a range of topics over the years.

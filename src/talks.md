@@ -1,7 +1,7 @@
 ---
-title: Speaking
-description: Select list of public talks since 2017
-date: '2021-01-08'
+layout: base
+permalink: /talks
+title: Talks since 2017
 ---
 
 I've been on stage at over 50 UX, design & tech events around the globe since 2017. Over the past few years, I've been speaking about the consequence design, UX harm & how bad policy is grafted onto digital experiences unwittingly. I've also organized a number of events.
