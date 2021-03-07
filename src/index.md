@@ -5,6 +5,4 @@ title: 'Ron Bronson'
 
 # 
 
-Design leader. Information architect. I work at the intersection of design, strategy, and policy to improve digital delivery at scale. Right now, I'm head of the product design team at 18F. 
-
-Previously, I worked in local and state government managing websites, among other things.
+I'm a service design leader, strategist & information architect with over two decades of experience leading large-scale digital initatives. These days, I work on projects big and small aimed at improving product delivery inside government, and speaking globally about the discontents of design.
